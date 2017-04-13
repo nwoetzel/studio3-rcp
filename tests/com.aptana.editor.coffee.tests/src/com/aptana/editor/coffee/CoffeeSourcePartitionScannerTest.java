@@ -3,7 +3,6 @@ package com.aptana.editor.coffee;
 import org.junit.After;
 import org.junit.Test;
 import static org.junit.Assert.*;
-import junit.framework.TestCase;
 
 import org.eclipse.core.runtime.CoreException;
 import org.eclipse.jface.text.Document;

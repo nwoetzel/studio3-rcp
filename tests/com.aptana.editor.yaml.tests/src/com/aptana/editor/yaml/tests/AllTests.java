@@ -10,8 +10,6 @@ package com.aptana.editor.yaml.tests;
 import org.junit.runners.Suite.SuiteClasses;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
-import junit.framework.Test;
-import junit.framework.TestSuite;
 
 import com.aptana.editor.yaml.YAMLCodeScannerTest;
 import com.aptana.editor.yaml.YAMLSourcePartitionScannerTest;

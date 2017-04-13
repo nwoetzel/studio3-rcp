@@ -10,8 +10,6 @@ package com.aptana.editor.yaml;
 import org.junit.After;
 import org.junit.Test;
 import static org.junit.Assert.*;
-import junit.framework.TestCase;
-
 import org.eclipse.jface.text.Document;
 import org.eclipse.jface.text.IDocument;
 import org.eclipse.jface.text.IDocumentPartitioner;

@@ -4,8 +4,6 @@ import org.junit.After;
 import org.junit.Test;
 import org.junit.Before;
 import static org.junit.Assert.*;
-import junit.framework.TestCase;
-
 import com.aptana.parsing.IParseState;
 import com.aptana.parsing.ParseState;
 import com.aptana.parsing.ast.IParseNode;

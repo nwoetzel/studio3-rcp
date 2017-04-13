@@ -13,10 +13,8 @@ import org.yaml.snakeyaml.nodes.MappingNode;
 import org.yaml.snakeyaml.nodes.NodeTuple;
 import org.yaml.snakeyaml.nodes.Tag;
 
-import com.aptana.editor.yaml.IYAMLConstants;
 import com.aptana.parsing.IParseState;
 import com.aptana.parsing.ast.IParseNode;
-import com.aptana.parsing.ast.ParseNode;
 
 public class MapParseNode extends YAMLNode
 {

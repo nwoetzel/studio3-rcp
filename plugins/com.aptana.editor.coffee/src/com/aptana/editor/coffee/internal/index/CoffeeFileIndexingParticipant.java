@@ -10,15 +10,9 @@ package com.aptana.editor.coffee.internal.index;
 import org.eclipse.core.filesystem.IFileStore;
 import org.eclipse.core.runtime.CoreException;
 import org.eclipse.core.runtime.IProgressMonitor;
-import org.eclipse.core.runtime.SubMonitor;
-
-import com.aptana.core.resources.TaskTag;
-import com.aptana.core.util.StringUtil;
-import com.aptana.editor.coffee.parsing.ast.CoffeeCommentNode;
 import com.aptana.index.core.AbstractFileIndexingParticipant;
 import com.aptana.index.core.Index;
 import com.aptana.index.core.build.BuildContext;
-import com.aptana.parsing.ast.IParseNode;
 
 public class CoffeeFileIndexingParticipant extends AbstractFileIndexingParticipant
 {

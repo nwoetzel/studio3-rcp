@@ -6,8 +6,6 @@ import org.junit.Before;
 import static org.junit.Assert.*;
 import java.io.IOException;
 
-import junit.framework.TestCase;
-
 import com.aptana.editor.coffee.parsing.Terminals;
 
 @SuppressWarnings("nls")

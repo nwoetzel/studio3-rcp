@@ -10,9 +10,6 @@ package com.aptana.editor.markdown.tests;
 import org.junit.runners.Suite.SuiteClasses;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
-import junit.framework.Test;
-import junit.framework.TestSuite;
-
 import com.aptana.editor.markdown.text.rules.MarkdownPartitionScannerTest;
 import com.aptana.editor.markdown.text.rules.MarkdownScannerTest;
 
